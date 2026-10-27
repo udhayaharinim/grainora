@@ -1,0 +1,5 @@
+node_modules/
+grainora.db
+grainora.db-shm
+grainora.db-wal
+.env
